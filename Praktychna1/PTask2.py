@@ -15,4 +15,4 @@ while True:
     m = x[0]
     for i in x[1:]:
         m = i if int(i) > int(m) else m
-    print('Максимальна цифра в цьому числі = %s' % m)
+    print('Максимальна цифра в цьому числі = %s')
